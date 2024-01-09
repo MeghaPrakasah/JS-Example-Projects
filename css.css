@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+form{
+    
+    text-align: center;
+    
+}
+h1{
+    font-size: 60px;
+}
+input[type=button]{
+    border-radius: 6px;
+    outline: none;
+    background-color: black;
+    color: white;
+    cursor: progress;
+
+}
